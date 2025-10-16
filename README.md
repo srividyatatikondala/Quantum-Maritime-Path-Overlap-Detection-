@@ -28,25 +28,7 @@ It uses:
 
 ⚗️ Tech Stack
 
-Category
-
-Tools / Libraries
-
-Quantum Simulation
-
-qiskit, qiskit-aer
-
-Visualization
-
-matplotlib, folium
-
-Math & Randomization
-
-numpy, math, random
-
-Environment
-
-Jupyter Notebook / Google Colab
+<img width="650" height="257" alt="image" src="https://github.com/user-attachments/assets/814d4eeb-5bda-4a7c-bbfb-c11889ca671c" />
 
 🧠 Concept Behind the Project
 
@@ -58,30 +40,8 @@ If so, a flag qubit (F) is flipped → collision detected (F=1).
 The algorithm can detect overlaps across all possible lane assignments simultaneously, leveraging quantum parallelism. 
 
 🧮 Workflow
+<img width="645" height="313" alt="image" src="https://github.com/user-attachments/assets/c9037f61-2e19-4d50-80bd-94a24945c4bf" />
 
-Step
-
-Description
-
-1️⃣
-
-Define number of lanes and ships.
-
-2️⃣
-
-Initialize all ships into a superposition (all possible lane combinations).
-
-3️⃣
-
-Apply the oracle to mark collision states.
-
-4️⃣
-
-Measure the final qubit F (1 = overlap detected).
-
-5️⃣
-
-Plot simulation results and visualize on a map.
 
 📊 Outputs
 
